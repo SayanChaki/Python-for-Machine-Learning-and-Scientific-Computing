@@ -1,4 +1,4 @@
-# Python and Machine Learning with PyTorch
+# Python and Machine Learning with PyTorch IOGS 2026
 
 A Graduate level teaching course for a beginner-to-intermediate for Institut d'Optique Graduate School M1/M2 level students batch of 2026. Beamer presentations and  Colab notebooks are provided here.
 
